@@ -62,4 +62,4 @@
 	url = ../polymer-bridges
 	branch = .
 [submodule "modules/jgit/"]
-	branch = stable-6.6
+	branch = 43d6bc5ef1add70315b411969aac2ad84bf0f492
